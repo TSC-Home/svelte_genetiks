@@ -214,5 +214,14 @@
 				/>
 			</a>
 		</div>
+		<div class="mt-2 flex">
+			<a href="https://synthetix.me/blog/creating-an-mrna-translator" target="_blank">
+				<img
+					alt="Blog Post mRNA Translator with Svelte and TypeScript"
+					src="https://og.synthetix.me/mRNA%20Translator%20with%20Svelte%20and%20TypeScript"
+					class="rounded-md border-2 border-white duration-100 hover:rotate-3 hover:scale-110"
+				/>
+			</a>
+		</div>
 	</div>
 </div>
