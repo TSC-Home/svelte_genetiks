@@ -69,6 +69,9 @@
 	};
 
 	let mRNA: string = '';
+
+	$: mRNA = mRNA.toUpperCase();
+
 	let output: string[] = [];
 	let result_combined: any = '';
 
